@@ -11,7 +11,3 @@
 # Node
 node_modules/
 npm-debug.log
-
-# Exclude arch phase files (we only want files/ folder and main guides)
-react-native-arch-phase*.md
-README-react-native-arch-masterclass.md
